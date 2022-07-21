@@ -1,3 +1,4 @@
+//Hello, World program
 module hello;
   initial 
     begin
