@@ -1,3 +1,4 @@
+//test bench for counter model
 module test;
 
   /* Make a reset that pulses once. */
