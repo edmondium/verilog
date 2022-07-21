@@ -1,3 +1,4 @@
+//counter program
 module counter(out, clk, reset);
 
   parameter WIDTH = 8;
