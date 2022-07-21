@@ -1,16 +1,16 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: 
+// Engineer: Edmond Febrinicko Armay
 // 
-// Create Date: 10/13/2019 09:58:09 PM
+// Create Date: 2022-07-21 09:58:09 PM
 // Design Name: 
 // Module Name: gate_level_simulation
 // Project Name: 
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// 
+// simulating nand, xor, not gates
 // Dependencies: 
 // 
 // Revision:
