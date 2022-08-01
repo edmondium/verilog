@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: LinkedIn Learning
-// Engineer: Eduardo Corpeño
+// Engineer: Eduardo Corpeño, Edmond Febrinicko Armay
 // 
 // Create Date: 11/04/2019 09:56:07 PM
 // Design Name: 
