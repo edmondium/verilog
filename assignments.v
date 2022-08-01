@@ -10,7 +10,7 @@
 // Target Devices: 
 // Tool Versions: 
 // Description: 
-// 
+// program of non-blocking assignment
 // Dependencies: 
 // 
 // Revision:
