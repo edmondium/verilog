@@ -1,0 +1,32 @@
+$date
+	Thu Aug  4 17:11:46 2022
+$end
+$version
+	Icarus Verilog
+$end
+$timescale
+	1ps
+$end
+$scope module sim_display $end
+$var reg 8 ! a [7:0] $end
+$var reg 8 " b [7:0] $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+b1 "
+b1010 !
+$end
+#10000
+b10 "
+b10100 !
+#20000
+b11 "
+b11110 !
+#30000
+b100 "
+b101000 !
+#40000
+b101 "
+b110010 !
+#50000
