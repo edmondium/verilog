@@ -21,7 +21,7 @@
 module boolean_TB ();
     reg a, b, c;
     wire F;
-    boolean DUT_boolean(a, b, c, f);
+    boolean DUT_boolean(a, b, c, F);
     initial begin
         $dumpfile("boolean.vcd");
         $dumpvars(0, boolean_TB);
